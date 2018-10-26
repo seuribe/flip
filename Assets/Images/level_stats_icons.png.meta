@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 43a189d22df14ed4e8feb7765ff029a1
+timeCreated: 1446459773
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: level_stats_icons_0
+    21300002: level_stats_icons_1
+    21300004: level_stats_icons_2
+    21300006: level_stats_icons_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 256
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: level_stats_icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79, y: 82}
+        - {x: -82, y: 79}
+        - {x: -82, y: -78}
+        - {x: -79, y: -81}
+        - {x: 81, y: -81}
+        - {x: 81, y: 82}
+    - name: level_stats_icons_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 82}
+        - {x: -81, y: 79}
+        - {x: -81, y: -79}
+        - {x: -79, y: -81}
+        - {x: 82, y: -81}
+        - {x: 82, y: 82}
+    - name: level_stats_icons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: 105}
+        - {x: 120, y: 105}
+        - {x: 78, y: 87}
+        - {x: -80, y: 81}
+        - {x: -82, y: 79}
+        - {x: -82, y: -79}
+        - {x: -79, y: -82}
+        - {x: 79, y: -82}
+        - {x: 81, y: -80}
+        - {x: 81, y: 57}
+        - {x: 128, y: 100}
+    - name: level_stats_icons_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 96}
+        - {x: -19, y: 95}
+        - {x: -80, y: 83}
+        - {x: -100, y: 38}
+        - {x: -100, y: 9}
+        - {x: -88, y: 0}
+        - {x: -85, y: -81}
+        - {x: -61, y: -89}
+        - {x: 0, y: -89}
+        - {x: 86, y: -82}
+        - {x: 86, y: 81}
+        - {x: -2, y: 96}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

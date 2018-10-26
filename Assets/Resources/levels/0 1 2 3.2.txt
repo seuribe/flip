@@ -1,0 +1,14 @@
+badc
+acdb
+dbac
+cdba
+dabc
+bcda
+dcab
+bdca
+cabd
+dacb
+cdab
+adbc
+bcad
+cbda

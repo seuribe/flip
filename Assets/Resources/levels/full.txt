@@ -1,0 +1,44 @@
+{
+"types": [
+	{	"type": "simple",
+		"texture":"CoinTexture.png",
+		"levels": [
+			{"pieces": "0 1 1 0",			"indexes": [4, 1],				"moves": 1, "starsRequired": 0 },
+			{"pieces": "0 1 2 3",			"indexes": [5, 14, 4],			"moves": 2, "starsRequired": 0 },
+			{"pieces": "0 1 0 1 0 1 0",		"indexes": [6, 9, 12, 5, 2],	"moves": 3, "starsRequired": 10 },
+			{"pieces": "0 1 2 3 4",			"indexes": [7, 33, 57, 22],		"moves": 4, "starsRequired": 25 },
+			{"pieces": "0 1 2 3 4 5",		"indexes": [9, 58, 201, 321, 130],		"moves": 5, "starsRequired": 50 },
+			{"pieces": "0 1 2 3 4 5 6",		"indexes": [11, 90, 476, 1525, 2108, 827, 2],				"moves": 6, "starsRequired": 75 },
+			{"pieces": "0 1 2 3 4 5 6 7",	"indexes": [13, 129, 918, 4509, 12684, 15717, 6332, 17],	"moves": 7, "starsRequired": 100 },
+			{"pieces": "0 1 2 3 4 3 2 1 0", "indexes": [14, 145, 920, 3769, 7980, 7091, 2452, 308],	"moves": 8, "starsRequired": 110 },
+			{"pieces": "0 1 2 3 4 5 6 7 8", "indexes": [15, 175, 1563, 10382, 46016, 117146, 133402, 54088, 92], "moves":9, "starsRequired": 120 },
+			{"pieces": "0 0 1 2 3 4 3 2 1 0 0", "indexes":[16, 203, 1654, 9662, 34866, 67425, 62202, 26437, 5164, 270], "moves":10, "starsRequired": 130 }
+		]},
+	{	"type": "sided",
+		"texture":"SidedCoinTexture.png",
+		"levels": [
+			{"pieces": "$0 1 1 0",			"indexes": [7, 26, 50, 12],				"moves": 3, "starsRequired": 25 },
+			{"pieces": "$0 1 2 3",			"indexes": [7, 30, 102, 169, 73, 2],	"moves": 4, "starsRequired": 50 },
+			{"pieces": "$0 1 2 1 0",		"indexes": [9, 52, 224, 472, 196, 6],	"moves": 5, "starsRequired": 75 },
+			{"pieces": "$0 1 0 1 0 1 0",	"indexes": [13, 93, 507, 1400, 1742, 709, 15],	"moves": 6, "starsRequired": 100 },
+			{"pieces": "$0 1 2 3 4",		"indexes": [9, 54, 274, 880, 1657, 927, 38],	"moves": 7, "starsRequired": 150 },
+			{"pieces": "$0 1 2 3 4 5",		"indexes": [11, 85, 575, 2770, 9523, 19051, 13196, 868],	"moves": 8, "starsRequired": 200 }
+		]},
+	{	"type": "wired",
+		"texture":"CoinTexture.png",
+		"levels": [
+			{"pieces": "0 1 2 3",			"indexes": [5, 14, 4],			"moves": 2, "starsRequired": 25 },
+			{"pieces": "0 1 2 3 4",			"indexes": [7, 33, 57, 22],		"moves": 4, "starsRequired": 50 },
+			{"pieces": "0 1 2 3 4 5",		"indexes": [9, 58, 201, 321, 130],	"moves": 5, "starsRequired": 75 },
+			{"pieces": "0 1 2 3 4 5 6",		"indexes": [11, 90, 476, 1525, 2108, 827, 2],	"moves": 6, "starsRequired": 100 }
+		]},
+	{	"type": "image",
+		"texture":"CoinTexture.png",
+		"levels": [
+			{"texture":"Images/roboton", "pieces": "$0 1 2",			"indexes": [5, 13, 23, 6],					"moves": 3, "starsRequired": 25, "forceLoadTree":true },
+			{"texture":"Images/luna",	 "pieces": "$0 1 2 3",			"indexes": [7, 30, 102, 169, 73, 2],		"moves": 4, "starsRequired": 50, "forceLoadTree":true  },
+			{"texture":"Images/darkcat", "pieces": "$0 1 2 3 4",		"indexes": [9, 54, 274, 880, 1657, 927, 38],"moves": 5, "starsRequired": 75 },
+			{"texture":"Images/foxhare", "pieces": "$0 1 2 3 4 5",		"indexes": [11, 85, 575, 2770, 9523, 19051, 13196, 868],	"moves": 6, "starsRequired": 100 }
+			]}
+ ]
+}

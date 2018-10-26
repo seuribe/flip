@@ -1,0 +1,124 @@
+menu.main.Exit:Sair
+menu.main.Play:Jogar
+tutorial.DragToFlip:Arraste para Girar
+menu.badges.Title:Conquistas
+menu.play.Tutorial:Tutorial
+badge.MasterOfTheUniverse.Title:Mestre do||Universo
+dialog.Reset:Isto resetará seus desafios resolvidos e as estrelas ganhas.||Está certo disto?
+dialog.Finished.Continue:Rejogar
+menu.stats.PuzzlesSolved:Desafios||resolvidos
+badge.ArtCollector.Desc:Terminou todos os níveis com imagens
+menu.type.simple:Simples
+badge.MasterOfSimplicity.Title:Mestre da||Simplicidade
+badge.SecondThoughts.Desc:Desfez 1000 giros
+menu.options.Reset:Resetar dados
+game.gui.Exit:Sair
+dialog.Finished.Back:Jogar Outro||Nível
+game.gui.solved.Perfect:Perfeito!
+menu.exit.Exit:Sair
+oneliner.sided:Combine as peças e orientações
+game.gui.LeaveGame:Sair do||jogo
+badge.ImageMaster.Desc:Completou perfeitamente todos os desafios com imagem
+badge.Initiated.Title:Iniciado
+dialog.Mastered.Continue:Desafios||Aleatórios
+badge.Flipper.Desc:Fez 1000 giros
+badge.KeepItSimple.Title:Simplista
+dialog.Mastered.Back:Jogar Outro||Nível
+badge.BackForMore.Desc:Jogou um nível novamente no modo aleatório
+badge.UpsideDown.Desc:Terminou todos os níveis orientados
+game.gui.Unsolved:Irresolutos
+dialog.Exit:Tem certeza que deseja sair?
+badge.SeenItAll.Desc:Jogou pelo menos um desafio de cada nível
+oneliner.image:Reconstrua a imagem
+badge.Unpuzzled.Desc:Jogou 1000 desafios
+menu.type.sided:Orientado
+oneliner.simple:Combine as peças
+badge.ArtCollector.Title:Colecionador||de Arte
+menu.stats.FlipsDone:Giros feitos
+game.gui.solved.Good:Muito bem!
+game.gui.SkipPuzzle:Pular Desafio
+menu.type.image:Imagem
+menu.play.Title:Jogar
+badge.Unpuzzled.Title:Desafio||Aceito
+badge.RainbowWarrior.Desc:Completou perfeitamente o nível 9 simples
+badge.RainbowWarrior.Title:Guerreiro do||Arco-Íris
+tutorial.NotInTwo:Não foi ótimo...||Mais está resolvido!
+badge.Astronomer.Title:Astrônomo
+menu.play.StarsToUnlock:{0} Estrelas||para Desbloquear
+badge.UpsideDown.Title:De cabeça||para baixo
+badge.MasterOfTheUniverse.Desc:Completou todos os desafios perfeitamente e terminou o jogo
+game.gui.VeryGood:Quase ótimas
+tutorial.FlipAgain:Gire novamente
+badge.StarGazer.Desc:Ganhou 100 estrelas
+game.gui.solved.LevelUnlocked:Novos níveis desbloqueados!
+tutorial.InsideOut:Não pode girar peças só no meio
+game.gui.Undo:Desfazer
+menu.play.Loading:Carregando
+badge.Flipper.Title:Rodando
+menu.options.Music:Música
+game.gui.NextLevel:Próximo Nível
+tutorial.FlipToMatch:Gire para combinar
+badge.Untangler.Desc:Terminou todos os níveis amarrados
+dialog.Finished:Você já resolveu os desafios deste nível, mas alguns podem||ser feitos com menos movimentos. Gostaria de rejogá-los?
+menu.play.Moves:Movimentos
+menu.exit.Thanks:Obrigado por jogar!
+badge.KnotMaster.Title:Mestre||dos Nós
+badge.AllTheWayBack.Desc:Desfez 10000 giros
+badge.Beginner.Title:Iniciante
+menu.play.Move:Movimento
+menu.stats.Badges:Conquistas
+tutorial.LevelDetails:Passe o mouse sobre a barra para ver||os detalhes de progressão de nível
+menu.main.Credits:Créditos
+menu.options.Effects:Efeitos
+badge.MasterOfSimplicity.Desc:Completou perfeitamente todos os desafios simples
+badge.MasterFromAllSides.Title:Mestre dos||Dois Lados
+menu.play.Puzzles:Desafios
+badge.StarCollector.Desc:Ganhou 500 estrelas
+oneliner.wired:Desamarre os fios
+game.gui.Hint:Dica
+badge.SuperFlipper.Desc:Fez 10000 giros
+dialog.Mastered:Você completou este nível. Você pode jogar desafios aleatórios||ou tentar outro nível ou tipo de desafio.
+badge.DoneItAll.Desc:Terminou pelo menos um desafio de cada nível
+menu.credits.Title:Créditos
+badge.SuperFlipper.Title:Roda||Roda
+badge.SeenItAll.Title:Já vi tudo
+badge.Binary.Desc:Completou perfeitamente o nível 3 simples
+game.gui.Perfect:Soluções ótimas
+general.Back:Voltar
+menu.main.Stats:Estatísticas
+badge.ImageMaster.Title:Mestre||das Imagens
+tutorial.OptimalSolutions:Combine com os movimentos mínimos||para resolver de forma ótima
+badge.Astronomer.Desc:Ganhou 1000 estrelas
+badge.KnotMaster.Desc:Completou perfeitamente todos os desafios amarrados
+menu.play.Random:Desafios Aleatórios
+menu.stats.Levels:Níveis
+game.gui.Moves:Movimentos
+game.gui.BadgeUnlocked:Conquista||desbloqueada!
+badge.KeepItSimple.Desc:Terminou todos os níveis simples
+game.gui.ContinuePlaying:Continuar||jogando
+general.Yes:Sim
+badge.Initiated.Desc:Terminou 10 níveis
+game.gui.LevelProgress:Progresso do Nível
+game.gui.TotalSolved:Total resolvidos
+badge.DoneItAll.Title:Já fiz tudo
+menu.options.Language.Base:Idioma
+badge.AllTheWayBack.Title:Arrependido
+badge.StarCollector.Title:Colecionador||de Estrelas
+badge.Advanced.Title:Avançado
+menu.options.Title:Opções
+badge.BackForMore.Title:Quero||Mais
+badge.Binary.Title:Binário
+badge.SecondThoughts.Title:Indeciso
+menu.main.Options:Opções
+menu.stats.FlipsUndone:Giros desfeitos
+general.No:Não
+badge.Beginner.Desc:Terminou o primeiro nível
+menu.stats.Title:Estatísticas
+badge.Advanced.Desc:Terminou 20 níveis
+menu.stats.TotalPuzzlesPlayed:Desafios jogados
+badge.Untangler.Title:Desenrolador
+menu.type.wired:Amarrado
+badge.MasterFromAllSides.Desc:Completou perfeitamente todos os desafios orientados
+game.gui.NextPuzzle:Próximo Desafio
+badge.StarGazer.Title:Observador||de Estrelas
+tutorial.StartPlaying:Agora vamos jogar!

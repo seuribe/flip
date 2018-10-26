@@ -1,0 +1,124 @@
+menu.main.Exit:Exit
+menu.main.Play:Play
+tutorial.DragToFlip:Drag to Flip
+menu.badges.Title:Achievements
+menu.play.Tutorial:Tutorial
+badge.MasterOfTheUniverse.Title:Master of||The Universe
+dialog.Reset:This will reset your solved puzzles and the earned stars.||Are you sure?
+dialog.Finished.Continue:Try them
+menu.stats.PuzzlesSolved:Puzzles||solved
+badge.ArtCollector.Desc:Finished all Image levels
+menu.type.simple:Simple
+badge.MasterOfSimplicity.Title:Master of||Simplicity
+badge.SecondThoughts.Desc:Undid 1000 flips
+menu.options.Reset:Reset play data
+game.gui.Exit:Exit
+dialog.Finished.Back:Play another||level
+game.gui.solved.Perfect:Perfect!
+menu.exit.Exit:Exit
+oneliner.sided:Match pieces and orientation
+game.gui.LeaveGame:Back||to menu
+badge.ImageMaster.Desc:Mastered all the puzzles of the Image type
+badge.Initiated.Title:Initiated
+dialog.Mastered.Continue:Random||Puzzles
+badge.Flipper.Desc:Did 1000 flips
+badge.KeepItSimple.Title:Keep It||Simple
+dialog.Mastered.Back:Play another||level
+badge.BackForMore.Desc:Played again a level in Random Puzzles Mode
+badge.UpsideDown.Desc:Finished all Sided levels
+game.gui.Unsolved:Unsolved
+dialog.Exit:Are you sure you want to leave?
+badge.SeenItAll.Desc:Played at least one puzzle from each level
+oneliner.image:Rebuild the picture
+badge.Unpuzzled.Desc:Played 1000 puzzles
+menu.type.sided:Sided
+oneliner.simple:Match the pieces
+badge.ArtCollector.Title:Art Collector
+menu.stats.FlipsDone:Flips done
+game.gui.solved.Good:Very good!
+game.gui.SkipPuzzle:Skip Puzzle
+menu.type.image:Image
+menu.play.Title:Play
+badge.Unpuzzled.Title:Unpuzzled
+badge.RainbowWarrior.Desc:Mastered the 9th level from Simple
+badge.RainbowWarrior.Title:Rainbow||Warrior
+tutorial.NotInTwo:That was not optimal||but it's solved anyway!
+badge.Astronomer.Title:Astronomer
+menu.play.StarsToUnlock:{0} Stars||to Unlock
+badge.UpsideDown.Title:Upside||Down
+badge.MasterOfTheUniverse.Desc:Mastered all puzzles and finished the game completely
+game.gui.VeryGood:Almost optimal
+tutorial.FlipAgain:Flip again
+badge.StarGazer.Desc:Earned 100 stars
+game.gui.solved.LevelUnlocked:New levels unlocked!
+tutorial.InsideOut:You cannot flip only pieces||in the middle
+game.gui.Undo:Undo
+menu.play.Loading:Loading
+badge.Flipper.Title:Flipper
+menu.options.Music:Music
+game.gui.NextLevel:Next Level
+tutorial.FlipToMatch:Flip to match
+badge.Untangler.Desc:Finished all Wired levels
+dialog.Finished:You already solved all puzzles in this level, but some||could be done in less moves. Do you want to retry those?
+menu.play.Moves:Moves
+menu.exit.Thanks:Thanks for playing!
+badge.KnotMaster.Title:Knot||Master
+badge.AllTheWayBack.Desc:Undid 10000 flips
+badge.Beginner.Title:Beginner
+menu.play.Move:Move
+menu.stats.Badges:Achievements
+tutorial.LevelDetails:Hover over the bar to see||your level progression details
+menu.main.Credits:Credits
+menu.options.Effects:Effects
+badge.MasterOfSimplicity.Desc:Mastered all the puzzles of the Simple type
+badge.MasterFromAllSides.Title:Master of||all Sides
+menu.play.Puzzles:Puzzles
+badge.StarCollector.Desc:Earned 500 stars
+oneliner.wired:Untangle the wires
+game.gui.Hint:Hint
+badge.SuperFlipper.Desc:Did 10000 flips
+dialog.Mastered:You have mastered this level. You can play random puzzles||or try another level or puzzle type.
+badge.DoneItAll.Desc:Finished at least one puzzle from each level
+menu.credits.Title:Credits
+badge.SuperFlipper.Title:Super||Flipper
+badge.SeenItAll.Title:Seen It All
+badge.Binary.Desc:Mastered the 3rd level from Simple
+game.gui.Perfect:Optimal solutions
+general.Back:Back
+menu.main.Stats:Statistics
+badge.ImageMaster.Title:Image||Master
+tutorial.OptimalSolutions:Match in the minimum moves||to solve optimally
+badge.Astronomer.Desc:Earned 1000 stars
+badge.KnotMaster.Desc:Mastered all the puzzles of the Wired type
+menu.play.Random:Random Puzzles
+menu.stats.Levels:Levels
+game.gui.Moves:Moves
+game.gui.BadgeUnlocked:Achievement||unlocked!
+badge.KeepItSimple.Desc:Finished all Simple levels
+game.gui.ContinuePlaying:Continue||playing
+general.Yes:Yes
+badge.Initiated.Desc:Finished 10 levels
+game.gui.LevelProgress:Level Progress
+game.gui.TotalSolved:Total Solved
+badge.DoneItAll.Title:Done It All
+menu.options.Language.Base:Language
+badge.AllTheWayBack.Title:All The||Way Back
+badge.StarCollector.Title:Star||Collector
+badge.Advanced.Title:Advanced
+menu.options.Title:Options
+badge.BackForMore.Title:Back||For More
+badge.Binary.Title:Binary
+badge.SecondThoughts.Title:Second||Thoughts
+menu.main.Options:Options
+menu.stats.FlipsUndone:Flips undone
+general.No:No
+badge.Beginner.Desc:Finished the first level
+menu.stats.Title:Statistics
+badge.Advanced.Desc:Finished 20 levels
+menu.stats.TotalPuzzlesPlayed:Total puzzles played
+badge.Untangler.Title:Untangler
+menu.type.wired:Wired
+badge.MasterFromAllSides.Desc:Mastered all the puzzles of the Sided type
+game.gui.NextPuzzle:Next Puzzle
+badge.StarGazer.Title:Star Gazer
+tutorial.StartPlaying:Let's start playing now!

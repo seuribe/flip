@@ -1,0 +1,124 @@
+menu.main.Exit:Выход
+menu.main.Play:Играть
+tutorial.DragToFlip:Потяните для поворота
+menu.badges.Title:Достижения
+menu.play.Tutorial:Обучение
+badge.MasterOfTheUniverse.Title:Король||мира
+dialog.Reset:Ваши результаты и полученные звезды будут удалены.||Вы уверены?
+dialog.Finished.Continue:Попробовать
+menu.stats.PuzzlesSolved:Головоломок||разгадано
+badge.ArtCollector.Desc:Прошел все уровни с картинками
+menu.type.simple:Простая
+badge.MasterOfSimplicity.Title:Мистер||простота
+badge.SecondThoughts.Desc:Отменил 1000 поворотов
+menu.options.Reset:Стереть данные
+game.gui.Exit:Выход
+dialog.Finished.Back:Играть в другой||уровень
+game.gui.solved.Perfect:Отлично!
+menu.exit.Exit:Выход
+oneliner.sided:Совместите элементы с учетом направления
+game.gui.LeaveGame:Покинуть||игру
+badge.ImageMaster.Desc:Разгадал все головоломки с картинками
+badge.Initiated.Title:Посвященный|| 
+dialog.Mastered.Continue:Случайные||головоломки
+badge.Flipper.Desc:Сделал 1000 поворотов
+badge.KeepItSimple.Title:Сторонник||простоты
+dialog.Mastered.Back:Играть в другой||уровень
+badge.BackForMore.Desc:Снова прошел уровень в случайном режиме
+badge.UpsideDown.Desc:Прошел все уровни со сдвигом
+game.gui.Unsolved:Не решено
+dialog.Exit:Вы уверены, что хотите выйти?
+badge.SeenItAll.Desc:Играл как минимум в одну головоломку каждого уровня
+oneliner.image:Соберите картинку
+badge.Unpuzzled.Desc:Сыграл в 1000 головоломок
+menu.type.sided:Со сдвигом
+oneliner.simple:Совместите элементы
+badge.ArtCollector.Title:Ценитель||искусства
+menu.stats.FlipsDone:Поворотов выполнено
+game.gui.solved.Good:Очень хорошо!
+game.gui.SkipPuzzle:Пропустить
+menu.type.image:Картинка
+menu.play.Title:Играть
+badge.Unpuzzled.Title:Король||головоломок
+badge.RainbowWarrior.Desc:Достиг 9 уровня в простой игре
+badge.RainbowWarrior.Title:Радужный||воин
+tutorial.NotInTwo:Ваш способ не является оптимальным,||хотя вы и решили головоломку!
+badge.Astronomer.Title:Астроном
+menu.play.StarsToUnlock:{0} звезд||для отпереть
+badge.UpsideDown.Title:Задом||наперед
+badge.MasterOfTheUniverse.Desc:Разгадал все головоломки и прошел всю игру
+game.gui.VeryGood:Близко к оптимальному
+tutorial.FlipAgain:Повторить поворот
+badge.StarGazer.Desc:Заработал 100 звезд
+game.gui.solved.LevelUnlocked:Разблокированы новые уровни!
+tutorial.InsideOut:Вы не можете поворачивать||только центральные элементы
+game.gui.Undo:Отмена
+menu.play.Loading:Загрузка
+badge.Flipper.Title:Акробат
+menu.options.Music:Музыка
+game.gui.NextLevel:След. уровень
+tutorial.FlipToMatch:Поворачивайте до совпадения
+badge.Untangler.Desc:Прошел все запутанные уровни
+dialog.Finished:Вы уже решили все головоломки данного уровня, но некоторые||из них могут задействовать меньше ходов. Хотите попробовать свои силы?
+menu.play.Moves:Ходов
+menu.exit.Thanks:Спасибо за игру!
+badge.KnotMaster.Title:Король||узлов
+badge.AllTheWayBack.Desc:Отменил 10000 поворотов
+badge.Beginner.Title:Новичок
+menu.play.Move:Ход
+menu.stats.Badges:Достижения
+tutorial.LevelDetails:Наведите курсор на строку состояния,||чтобы увидеть подробности прохождения уровня
+menu.main.Credits:Об игре
+menu.options.Effects:Эффекты
+badge.MasterOfSimplicity.Desc:Разгадал все простые головоломки
+badge.MasterFromAllSides.Title:Мистер||многогранность
+menu.play.Puzzles:Головоломки
+badge.StarCollector.Desc:Заработал 500 звезд
+oneliner.wired:Распутайте узел
+game.gui.Hint:Подсказка
+badge.SuperFlipper.Desc:Сделал 10000 поворотов
+dialog.Mastered:Вы завершили данный уровень. Вы можете включить случайный режим||или попробовать новый уровень или другую головоломку.
+badge.DoneItAll.Desc:Прошел как минимум в одну головоломку каждого уровня
+menu.credits.Title:Об игре
+badge.SuperFlipper.Title:Супер||акробат
+badge.SeenItAll.Title:Видал||всякое
+badge.Binary.Desc:Достиг 3 уровня в простой игре
+game.gui.Perfect:Оптимальные решения
+general.Back:Назад
+menu.main.Stats:Статистика
+badge.ImageMaster.Title:Король||картинок
+tutorial.OptimalSolutions:Оптимальное решение содержит||минимум ходов
+badge.Astronomer.Desc:Заработал 1000 звезд
+badge.KnotMaster.Desc:Разгадал все запутанные головоломки
+menu.play.Random:Случайный режим
+menu.stats.Levels:Уровни
+game.gui.Moves:Ходов
+game.gui.BadgeUnlocked:Получено новое||достижение!
+badge.KeepItSimple.Desc:Прошел все простые уровни
+game.gui.ContinuePlaying:Продолжить||игру
+general.Yes:Да
+badge.Initiated.Desc:Прошел 10 уровней
+game.gui.LevelProgress:Степень выполнения уровня
+game.gui.TotalSolved:Решено всего
+badge.DoneItAll.Title:Прошел всё
+menu.options.Language.Base:Язык
+badge.AllTheWayBack.Title:Все||наоборот
+badge.StarCollector.Title:Ловец||звезд
+badge.Advanced.Title:Продвинутый
+menu.options.Title:Настройки
+badge.BackForMore.Title:Пришел||за добавкой
+badge.Binary.Title:Двойной
+badge.SecondThoughts.Title:Робкий
+menu.main.Options:Настройки
+menu.stats.FlipsUndone:Поворотов отменено
+general.No:Нет
+badge.Beginner.Desc:Прошел первый уровень
+menu.stats.Title:Статистика
+badge.Advanced.Desc:Прошел 20 уровней
+menu.stats.TotalPuzzlesPlayed:Сыграно головоломок всего
+badge.Untangler.Title:Следопыт|| 
+menu.type.wired:Запутанная
+badge.MasterFromAllSides.Desc:Разгадал все головоломки со сдвигом
+game.gui.NextPuzzle:След. головоломка
+badge.StarGazer.Title:Мечтатель
+tutorial.StartPlaying:Приступим к игре!

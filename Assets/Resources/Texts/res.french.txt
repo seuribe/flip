@@ -1,0 +1,124 @@
+menu.main.Exit:Quitter
+menu.main.Play:Jouer
+tutorial.DragToFlip:Faites glisser pour retourner
+menu.badges.Title:Succès
+menu.play.Tutorial:Tutoriel
+badge.MasterOfTheUniverse.Title:Maître de||l'univers
+dialog.Reset:Ceci réinitialisera vos puzzles résolus et vos étoiles obtenues.||Voulez-vous vraiment continuer ?
+dialog.Finished.Continue:Essayez-les
+menu.stats.PuzzlesSolved:Puzzles||résolus
+badge.ArtCollector.Desc:Terminez tous les niveaux « Image »
+menu.type.simple:Simple
+badge.MasterOfSimplicity.Title:Maître de||la simplicité
+badge.SecondThoughts.Desc:1000 renversements annulés
+menu.options.Reset:Réinitialiser les données
+game.gui.Exit:Quitter
+dialog.Finished.Back:Jouer un||autre niveau
+game.gui.solved.Perfect:Parfait !
+menu.exit.Exit:Quitter
+oneliner.sided:Faites correspondre les pièces||et leurs orientations à l'image
+game.gui.LeaveGame:Revenir au||menu principal
+badge.ImageMaster.Desc:Maîtrisez tous les puzzles « Image »
+badge.Initiated.Title:Initié
+dialog.Mastered.Continue:Puzzles||aléatoires
+badge.Flipper.Desc:1000 renversements effectués
+badge.KeepItSimple.Title:Ne complique||pas les choses
+dialog.Mastered.Back:Jouer un||autre niveau
+badge.BackForMore.Desc:Jouez à nouveau à un niveau dans le mode « Puzzles aléatoires »
+badge.UpsideDown.Desc:Terminez tous les niveaux « Orientation »
+game.gui.Unsolved:Non-résolu
+dialog.Exit:Voulez-vous vraiment quitter?
+badge.SeenItAll.Desc:Jouez à au moins un puzzle de chaque niveau
+oneliner.image:Reconstruisez l'image
+badge.Unpuzzled.Desc:1000 puzzles joués
+menu.type.sided:Orientation
+oneliner.simple:Faites correspondre||les pièces à l'image
+badge.ArtCollector.Title:Collectionneur||d'art
+menu.stats.FlipsDone:Retournements effectués
+game.gui.solved.Good:Très bien !
+game.gui.SkipPuzzle:Passer le puzzle
+menu.type.image:Image
+menu.play.Title:Jouer
+badge.Unpuzzled.Title:Impuzzible
+badge.RainbowWarrior.Desc:Maîtrisez le neuvième niveau « Simple »
+badge.RainbowWarrior.Title:Guerrier||arc-en-ciel
+tutorial.NotInTwo:Ce n'était pas optimal||mais le niveau est résolu!
+badge.Astronomer.Title:Astronome
+menu.play.StarsToUnlock:{0} étoiles||pour débloquer
+badge.UpsideDown.Title:Sens dessus||dessous
+badge.MasterOfTheUniverse.Desc:Maîtrisez tous les puzzles et terminez le jeu
+game.gui.VeryGood:Presque optimal
+tutorial.FlipAgain:Retournez-les à nouveau
+badge.StarGazer.Desc:Obtenez 100 étoiles
+game.gui.solved.LevelUnlocked:Nouveaux niveaux débloqués !
+tutorial.InsideOut:Vous ne pouvez renverser que||les pièces du milieu
+game.gui.Undo:Annuler
+menu.play.Loading:Chargement en cours
+badge.Flipper.Title:Renverseur
+menu.options.Music:Musique
+game.gui.NextLevel:Niveau suivant
+tutorial.FlipToMatch:Retournez-les pour||les faire correspondre à l'image
+badge.Untangler.Desc:Terminez tous les niveaux « Filaire »
+dialog.Finished:Vous avez déjà terminé tous les puzzles de ce niveau,||mais certains peuvent être terminés en moins de tours.||Voulez-vous les réessayer ?
+menu.play.Moves:Tours
+menu.exit.Thanks:Merci d'avoir joué !
+badge.KnotMaster.Title:Maître des||noeuds
+badge.AllTheWayBack.Desc:10 000 renversements annulés
+badge.Beginner.Title:Débutant
+menu.play.Move:Tour
+menu.stats.Badges:Succès
+tutorial.LevelDetails:Passez votre souris sur la barre|||pour voir les détails de progression du niveau
+menu.main.Credits:Crédits
+menu.options.Effects:Effets
+badge.MasterOfSimplicity.Desc:Maîtrisez tous les puzzles « Simple »
+badge.MasterFromAllSides.Title:Maître de||tous les côtés
+menu.play.Puzzles:Puzzles
+badge.StarCollector.Desc:Obtenez 500 étoiles
+oneliner.wired:Démêlez les fils
+game.gui.Hint:Astuce
+badge.SuperFlipper.Desc:10 000 renversements effectués
+dialog.Mastered:Vous maîtrisez désormais ce niveau.||Vous pouvez jouer à des puzzles aléatoires,||ou essayer un autre niveau ou type de puzzle.
+badge.DoneItAll.Desc:Terminez au moins un puzzle de chaque niveau
+menu.credits.Title:Crédits
+badge.SuperFlipper.Title:Renverseur||pro
+badge.SeenItAll.Title:J'ai tout vu
+badge.Binary.Desc:Maîtrisez le troisième niveau « Simple »
+game.gui.Perfect:Solutions optimales
+general.Back:Retour
+menu.main.Stats:Statistiques
+badge.ImageMaster.Title:Maître des||images
+tutorial.OptimalSolutions:Ne dépassez pas le nombre de|||déplacements pour résoudre le puzzle optimalement
+badge.Astronomer.Desc:Obtenez 1000 étoiles
+badge.KnotMaster.Desc:Maîtrisez tous les puzzles « Filaire »
+menu.play.Random:Puzzles aléatoires
+menu.stats.Levels:Niveaux
+game.gui.Moves:Tours
+game.gui.BadgeUnlocked:Succès||débloqué!
+badge.KeepItSimple.Desc:Terminez tous les niveaux « Simple »
+game.gui.ContinuePlaying:Continuer||à jouer
+general.Yes:Oui
+badge.Initiated.Desc:Terminez 10 niveaux
+game.gui.LevelProgress:Progression du niveau
+game.gui.TotalSolved:Résolus
+badge.DoneItAll.Title:J'ai tout||terminé
+menu.options.Language.Base:Langue
+badge.AllTheWayBack.Title:Retour dans||le passé
+badge.StarCollector.Title:Collectionneur||stellaire
+badge.Advanced.Title:Avancé
+menu.options.Title:Paramètres
+badge.BackForMore.Title:J'en veux||encore
+badge.Binary.Title:Binaire
+badge.SecondThoughts.Title:Réfléchir||à deux fois
+menu.main.Options:Paramètres
+menu.stats.FlipsUndone:Retournements annulés
+general.No:Non
+badge.Beginner.Desc:Terminez le premier niveau
+menu.stats.Title:Statistiques
+badge.Advanced.Desc:Terminez 20 niveaux
+menu.stats.TotalPuzzlesPlayed:Puzzles joués
+badge.Untangler.Title:Démêleur
+menu.type.wired:Filaire
+badge.MasterFromAllSides.Desc:Terminez tous les puzzles « Orientation »
+game.gui.NextPuzzle:Puzzle suivant
+badge.StarGazer.Title:Observateur||stellaire
+tutorial.StartPlaying:Commençons à jouer !

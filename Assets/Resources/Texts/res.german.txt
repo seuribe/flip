@@ -1,0 +1,124 @@
+menu.type.wired:Netzmodus
+badge.StarCollector.Desc:Sammle 500 Sterne
+menu.options.Reset:Spieldaten löschen
+menu.stats.Badges:Erfolge
+badge.BackForMore.Title:Zurück||für mehr
+badge.DoneItAll.Desc:In jedem Level mindestens ein Puzzle absolviert
+menu.play.Loading:Laden
+game.gui.VeryGood:Fast optimal gelöst
+menu.badges.Title:Erfolge
+badge.Initiated.Desc:Schließe 10 Level ab
+badge.MasterOfSimplicity.Desc:Alle Level im einfachen Modus perfekt abgeschlossen
+menu.stats.PuzzlesSolved:gelöste||Puzzles
+game.gui.SkipPuzzle:Nächstes
+dialog.Mastered.Continue:Zufällige||Puzzles
+badge.Advanced.Title:Experte
+badge.MasterOfTheUniverse.Title:Weltmeister
+badge.Binary.Title:Binär
+menu.type.simple:Einfach
+general.Yes:Ja
+badge.SeenItAll.Desc:Jedes Level mindestens einmal gestartet
+menu.main.Credits:Abspann
+menu.options.Title:Optionen
+badge.MasterOfTheUniverse.Desc:Alle Level perfekt abgeschlossen
+tutorial.OptimalSolutions:Komm die mit minimalen Schritten gleich|| für optimale Lösung
+badge.Binary.Desc:Das dritte Level des einfachen Modus abgeschlossen
+badge.SeenItAll.Title:Alles||gesehen
+badge.ArtCollector.Desc:Alle Level im Bildermodus abgeschlossen
+general.Back:Zurück
+badge.StarGazer.Desc:Sammle 100 Sterne
+menu.play.StarsToUnlock:noch||{0} Sterne
+tutorial.DragToFlip:Ziehen zu flippen
+menu.stats.FlipsDone:Flips gemacht
+oneliner.wired:Entwirre die Kabel
+badge.StarGazer.Title:Sternen-||beobachter
+badge.Initiated.Title:Immer noch||am Anfang
+game.gui.solved.Good:Sehr gut!
+game.gui.solved.Perfect:Perfekt!
+badge.Untangler.Title:Komplette||Entwirrung
+game.gui.Perfect:Optimal gelöst
+badge.RainbowWarrior.Title:Regenbogen-||krieger
+badge.KeepItSimple.Desc:Alle Level im einfachen Modus abgeschlossen
+menu.options.Effects:Ton
+dialog.Mastered.Back:Anderes Level
+game.gui.ContinuePlaying:Weiter||Spielen
+menu.stats.Levels:Levels
+badge.ImageMaster.Title:Renommierter||Künstler
+oneliner.sided:Bilde die Vorlage in||der richtigen Orientierung nach
+menu.play.Moves:Schritte
+menu.main.Stats:Statistiken
+game.gui.Undo:Undo
+menu.options.Language.Base:Sprache
+badge.Astronomer.Desc:Sammle 1000 Sterne
+badge.BackForMore.Desc:Spiele ein Level im zufälligen Modus
+game.gui.TotalSolved:Gesamt gelöst
+oneliner.simple:Bilde die Vorlage nach
+menu.main.Exit:Exit
+tutorial.LevelDetails:Platzier dem Maus über der Statusleiste||für den Niveauszustand
+badge.AllTheWayBack.Desc:Mache 10000 Flips rückgängig
+game.gui.NextPuzzle:Nächste
+badge.UpsideDown.Title:Falsch herum
+game.gui.Hint:Hilfe
+game.gui.LevelProgress:Levelfortschritt
+menu.stats.Title:Statistiken
+badge.MasterFromAllSides.Desc:Alle Level im doppelseitigen Modus perfekt abgeschlossen
+menu.play.Random:Zufällige Puzzles
+badge.SuperFlipper.Title:Super||Flipper
+badge.Beginner.Title:Anfänger
+tutorial.FlipToMatch:Ziehen zu gleichkommen
+badge.Unpuzzled.Title:Rätselprofi
+badge.UpsideDown.Desc:Alle Level im doppelseitigen Modus abgeschlossen
+badge.KnotMaster.Desc:Alle Level im Netzmodus perfekt abgeschlossen
+tutorial.NotInTwo:Das war nicht Optimal... jedenfalls gelöst
+badge.Flipper.Desc:Mache 1000 Flips
+dialog.Mastered:Herzlichen Glückwunsch, du hast das Level abgeschlossen.||Du kannst nun weiterhin zufällige Puzzles||dieser Schwierigkeit spielen oder andere Level beginnen.
+game.gui.solved.LevelUnlocked:Neue Niveaus geöffnet!
+badge.MasterFromAllSides.Title:Richtig||herum
+menu.credits.Title:Credits
+menu.type.sided:Doppelseitig
+menu.main.Play:Spielen
+badge.RainbowWarrior.Desc:Das neunte Level des einfachen Modus abgeschlossen
+game.gui.Unsolved:Ungelöst
+badge.KnotMaster.Title:Endlich||entwirrt
+badge.KeepItSimple.Title:Das war||ja einfach
+game.gui.NextLevel:Nächste Niveau
+badge.Unpuzzled.Desc:Spiele 1000 Puzzles
+game.gui.Exit:Exit
+game.gui.Moves:Schritte
+badge.StarCollector.Title:Sternen-||sammler
+tutorial.InsideOut:Es ist nicht möglich||nur Stücke von der Mitte zu ziehen
+badge.Beginner.Desc:Beende dein erstes Level
+menu.play.Move:Schritt
+badge.SecondThoughts.Title:Unsicher
+badge.Untangler.Desc:Alle Level im Netzmodus abgeschlossen
+dialog.Finished:Du hast alle Puzzle dieses Levels gelöst,||aber einige könnten noch in weniger Schritten||gelöst werden
+badge.ImageMaster.Desc:Alle Level im Bildermodus perfekt abgeschlossen
+dialog.Finished.Continue:Neuer Versuch
+menu.stats.FlipsUndone:Flips rückgängig gemacht
+menu.options.Music:Musik
+dialog.Reset:Die Sterne und Puzzles Fortschritte werden gelöscht werden.||Bist du sicher?
+badge.Flipper.Title:Flipper
+oneliner.image:Rekonstruiere das Bild
+tutorial.StartPlaying:Jetzt bist du bereit für die wahren Prüfungen!
+badge.DoneItAll.Title:Alles||ausprobiert
+menu.play.Puzzles:Puzzles
+menu.play.Title:Spiel
+badge.SuperFlipper.Desc:Mache 10000 Flips
+badge.Astronomer.Title:Astronom
+menu.exit.Thanks:Danke für spielen!
+menu.main.Options:Optionen
+badge.SecondThoughts.Desc:Mache 1000 Flips rückgängig
+tutorial.FlipAgain:wieder flippen
+game.gui.LeaveGame:Exit||zum Menu
+menu.exit.Exit:Exit
+badge.AllTheWayBack.Title:Den ganzen||Weg zurück
+general.No:Nein
+menu.play.Tutorial:Anleitung
+badge.ArtCollector.Title:Kunst-||sammler
+dialog.Finished.Back:Anderes Level
+menu.type.image:Bilder
+menu.stats.TotalPuzzlesPlayed:Puzzles gespielt
+badge.Advanced.Desc:Schließe 20 Level ab
+dialog.Exit:Bist du sicher?
+game.gui.BadgeUnlocked:Erfolg||erhalten!
+badge.MasterOfSimplicity.Title:Das war viel||zu einfach

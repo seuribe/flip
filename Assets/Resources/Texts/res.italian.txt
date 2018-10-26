@@ -1,0 +1,124 @@
+menu.main.Exit:Esci
+menu.main.Play:Gioca
+tutorial.DragToFlip:Trascina per fare un flip
+menu.badges.Title:Achievements
+menu.play.Tutorial:Tutorial
+badge.MasterOfTheUniverse.Title:Signore||dell'Universo
+dialog.Reset:Questo resetterà tutti i puzzle risolti e le stelle ottenute.||Sei sicuro/a?
+dialog.Finished.Continue:Provali
+menu.stats.PuzzlesSolved:Puzzle||risolti
+badge.ArtCollector.Desc:Completati tutti i livelli ad immagini
+menu.type.simple:Semplice
+badge.MasterOfSimplicity.Title:Signore della||semplicità
+badge.SecondThoughts.Desc:Cancellati 1000 flip
+menu.options.Reset:Resetta i dati di gioco
+game.gui.Exit:Esci
+dialog.Finished.Back:Gioca altri||livelli
+game.gui.solved.Perfect:Perfetto!
+menu.exit.Exit:Esci
+oneliner.sided:Fai coincidere i pezzi e l'orientamento
+game.gui.LeaveGame:Abbandona||la partita
+badge.ImageMaster.Desc:Completati tutti i livelli ad immagini perfettamente
+badge.Initiated.Title:Iniziato
+dialog.Mastered.Continue:Puzzle||Casuali
+badge.Flipper.Desc:Fatti 1000 flip
+badge.KeepItSimple.Title:Fallo||semplice
+dialog.Mastered.Back:Gioca altri||livelli
+badge.BackForMore.Desc:Rigiocare un livello in Modalità Puzzle Casuali
+badge.UpsideDown.Desc:Completati tutti i livelli orientati
+game.gui.Unsolved:Non Risolto
+dialog.Exit:Sei sicuro di voler uscire?
+badge.SeenItAll.Desc:Giocato almeno un puzzle per livello
+oneliner.image:Ricostruisci l'immagine
+badge.Unpuzzled.Desc:Giocati 1000 puzzle
+menu.type.sided:Orientato
+oneliner.simple:Fai coincidere i pezzi
+badge.ArtCollector.Title:Collezzionista||d'arte
+menu.stats.FlipsDone:Flip fatti
+game.gui.solved.Good:Molto bene!
+game.gui.SkipPuzzle:Salta Puzzle
+menu.type.image:Ad immagini
+menu.play.Title:Gioca
+badge.Unpuzzled.Title:Impossibile
+badge.RainbowWarrior.Desc:Completato il nono livello semplice perfettamente
+badge.RainbowWarrior.Title:Guerriero||dell'Acrcobaleno
+tutorial.NotInTwo:Così non è ottimale||ma è risolto comunque!
+badge.Astronomer.Title:Astronomo
+menu.play.StarsToUnlock:{0} Stelle|| da sbloccare
+badge.UpsideDown.Title:A testa||in giù
+badge.MasterOfTheUniverse.Desc:Completati tutti i puzzle ed il gioco perfettamente
+game.gui.VeryGood:Quasi Ottimale
+tutorial.FlipAgain:Di nuovo
+badge.StarGazer.Desc:Ottenute 100 stelle
+game.gui.solved.LevelUnlocked:Nuovi livelli sbloccati!
+tutorial.InsideOut:Non puoi rotare solo||i pezzi nel mezzo
+game.gui.Undo:Cancella
+menu.play.Loading:Caricamento
+badge.Flipper.Title:Flipper
+menu.options.Music:Musica
+game.gui.NextLevel:Prossimo Livello
+tutorial.FlipToMatch:Ruota affinchè coincidano
+badge.Untangler.Desc:Completati tutti i livelli annodati
+dialog.Finished:Hai già risolto tutti i puzzle di questo livello, alcuni però||possono essere risolti con meno mosse. Vuoi riprovarli?
+menu.play.Moves:Mosse
+menu.exit.Thanks:Grazie per giocare!
+badge.KnotMaster.Title:Signore dei||nodi
+badge.AllTheWayBack.Desc:Cancellati 10000 flip
+badge.Beginner.Title:Principiante
+menu.play.Move:Muovi
+menu.stats.Badges:Achievements
+tutorial.LevelDetails:Passa col mouse sulla barra||per vedere i dettagli del tuo progresso
+menu.main.Credits:Crediti
+menu.options.Effects:Effetti
+badge.MasterOfSimplicity.Desc:Completati tutti i livelli semplici perfettamente
+badge.MasterFromAllSides.Title:Signore dei||cardini
+menu.play.Puzzles:Puzzle
+badge.StarCollector.Desc:Ottenute 500 stelle
+oneliner.wired:Districa i nodi
+game.gui.Hint:Aiuto
+badge.SuperFlipper.Desc:Fatti 10000 flip
+dialog.Mastered:Hai completato questo livello perfettamente. Puoi giocare puzzle casuali||o provare un altro livello o tipo di puzzle.
+badge.DoneItAll.Desc:Completato almeno un puzzle per livello
+menu.credits.Title:Crediti
+badge.SuperFlipper.Title:Super||Flipper
+badge.SeenItAll.Title:Hai visto||tutto
+badge.Binary.Desc:Completato il terzo livello semplice perfettamente
+game.gui.Perfect:Soluzione Ottimale
+general.Back:Indietro
+menu.main.Stats:Statistiche
+badge.ImageMaster.Title:Signore delle||immagini
+tutorial.OptimalSolutions:Fai coincidere nel minor numero di mosse||possibile, per risolvere ottimamente
+badge.Astronomer.Desc:Ottenute 1000 stelle
+badge.KnotMaster.Desc:Completati tutti i livelli annodati perfettamente
+menu.play.Random:Puzzle casuali
+menu.stats.Levels:Livelli
+game.gui.Moves:Mosse
+game.gui.BadgeUnlocked:Achievement||sbloccato!
+badge.KeepItSimple.Desc:Completati tutti i livelli semplici
+game.gui.ContinuePlaying:Gioca||ancora
+general.Yes:sì
+badge.Initiated.Desc:Completati 10 livelli
+game.gui.LevelProgress:Progresso del livello
+game.gui.TotalSolved:Completamente Risolto
+badge.DoneItAll.Title:Hai fatto||tutto
+menu.options.Language.Base:Lingua
+badge.AllTheWayBack.Title:Pentito
+badge.StarCollector.Title:Collezzionista||di stelle
+badge.Advanced.Title:Avanzato
+menu.options.Title:Opzioni
+badge.BackForMore.Title:Ne voglio||ancora
+badge.Binary.Title:Binario
+badge.SecondThoughts.Title:Indeciso
+menu.main.Options:Opzioni
+menu.stats.FlipsUndone:Flip cancellati
+general.No:no
+badge.Beginner.Desc:Completato il primo livello
+menu.stats.Title:Statistiche
+badge.Advanced.Desc:Completati 20 livelli
+menu.stats.TotalPuzzlesPlayed:Totale puzzle giocati
+badge.Untangler.Title:Districatore
+menu.type.wired:Annodato
+badge.MasterFromAllSides.Desc:Completati tutti i livelli orientati perfettamente
+game.gui.NextPuzzle:Prossimo Puzzle
+badge.StarGazer.Title:Osservatore||di stelle
+tutorial.StartPlaying:Ora sei pronto a giocare!
